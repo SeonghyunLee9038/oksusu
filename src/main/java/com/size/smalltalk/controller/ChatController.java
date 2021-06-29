@@ -1,6 +1,6 @@
-package com.oksusu.chat.controller;
+package com.size.smalltalk.controller;
 
-import com.oksusu.chat.model.ChatMessage;
+import com.size.smalltalk.model.ChatMessage;
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.Payload;
 import org.springframework.messaging.handler.annotation.SendTo;

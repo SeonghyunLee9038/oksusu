@@ -1,8 +1,8 @@
-package com.oksusu.chat.controller;
+package com.size.smalltalk.controller;
 
 
-import com.oksusu.chat.model.ChatMessage;
-import com.oksusu.chat.model.MessageType;
+import com.size.smalltalk.model.ChatMessage;
+import com.size.smalltalk.model.MessageType;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

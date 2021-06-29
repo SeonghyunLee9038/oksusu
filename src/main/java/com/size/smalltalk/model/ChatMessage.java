@@ -1,4 +1,4 @@
-package com.oksusu.chat.model;
+package com.size.smalltalk.model;
 
 public class ChatMessage {
 

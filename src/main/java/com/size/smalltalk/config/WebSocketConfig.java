@@ -1,4 +1,4 @@
-package com.oksusu.chat.config;
+package com.size.smalltalk.config;
 
 
 import org.springframework.context.annotation.Configuration;
